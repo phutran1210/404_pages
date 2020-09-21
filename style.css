@@ -65,9 +65,9 @@
   position: absolute;
   transform: rotateY(180deg);
   top: 0;
-  left: 0;
+  left: 50px;
   transform: translateY(-50%, -50%);
-  max-width: 200px;
+  max-width: 400px;
 }
 .grass {
   position: absolute;
